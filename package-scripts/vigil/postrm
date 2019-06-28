@@ -1,0 +1,9 @@
+#!/bin/sh
+#
+# Perform necessary vigil removal steps
+# after package is uninstalled.
+#
+
+echo "vigil has been uninstalled!"
+
+exit 0
